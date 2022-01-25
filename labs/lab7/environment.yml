@@ -1,4 +1,4 @@
-name: lab4
+name: lab7
 channels:
     - conda-forge
     - defaults
@@ -11,5 +11,4 @@ dependencies:
     - spyder        # Scientific development environment
     - shapely       # Vector formats
     - jupyter       # Interactive notebooks
-    - rioxarray     # Geospatial xarray extension
-    - xarray        # N-D labeled arrays and datasets
+    - psycopg2      # PostgreSQL adapter
