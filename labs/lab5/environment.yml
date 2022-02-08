@@ -9,3 +9,4 @@ dependencies:
     - numpy         # N-d array and numerics 
     - jupyter       # Interactive notebooks
     - scikit-learn  # Machine learning
+    - cenpy         # Census API
