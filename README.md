@@ -12,7 +12,7 @@ Course materials for Geospatial Date Science Applications (GEOG 4/590) taught at
 
 ## Overview
 
-This course introduces students to emerging geospatial data science methods for addressing important environmental challenges in the western USA. The course will be taught as a series of short lectures and longer computer labs in which students will learn how to use Python to process (e.g. resampling, manipulating, interpolating), analyze (e.g. machine learning), and visualize (e.g. plotting, mapping) geospatial data. Students will apply these newly developed skills to real world applications (e.g. water management, renewable energy, agriculture, hazards, and climate change). In doing so, students will become familiar with a variety of data sources including those derived from satellite remote sensing, climate models, weather stations, census bureau, crowdsourced maps, and GPS. The course will be best suited for students who already have some programming (e.g. CIS 122) and GIS (e.g. 481) experience. The skills developed during this course will be directly applicable to a career in (geospatial) data science.
+This course introduces students to emerging geospatial data science methods for addressing important environmental challenges in the western USA. The course will be taught as a series of short lectures and longer computer labs in which students will learn how to use Python to process (e.g. resampling, manipulating, interpolating), analyze (e.g. machine learning), and visualize (e.g. plotting, mapping) geospatial data. Students will apply these newly developed skills to real world applications (e.g. water management, renewable energy, agriculture, hazards, and climate change). In doing so, students will become practitioners of geospatial data science who are familiar with a variety of data sources including those derived from satellite remote sensing, climate models, weather stations, census bureau, crowdsourced maps, and GPS. The course will be best suited for students who already have some programming (e.g. CIS 122) and GIS (e.g. 481) experience. The skills developed during this course will be directly applicable to a career in (geospatial) data science.
 
 Learning outcomes:
 
@@ -22,7 +22,7 @@ Learning outcomes:
 * Understand basic machine learning concepts for data science
 * Manage individual and group software development using version control
 * Collaborate on a group project
-* Communicate results of data science project orally and as short write-up
+* Communicate results of data science project orally and as a short write-up
 
 ## Schedule
 
@@ -38,8 +38,8 @@ The course will be taught over ten weeks, with a lecture on Monday and lab on Fr
 | 5           | Jan 31     | [Machine learning](https://nbviewer.org/format/slides/github/JohnnyRyan1/geospatial-data-science/blob/master/lectures/lecture5/lecture-5.ipynb)      | [House price prediction](https://nbviewer.org/github/JohnnyRyan1/geospatial-data-science/blob/master/labs/lab5/lab5_demo.ipynb)        | [Submit project ideas](https://github.com/JohnnyRyan1/geospatial-data-science/blob/master/labs/lab5/project_ideas_task.md)   |
 | 6           | Feb 7      | [Code management](https://nbviewer.org/format/slides/github/JohnnyRyan1/geospatial-data-science/blob/master/lectures/lecture6/lecture-6.ipynb)  | [Collaborating on GitHub](https://nbviewer.org/github/JohnnyRyan1/geospatial-data-science/blob/master/labs/lab6/lab6_demo.ipynb)          | [Initialize project](https://nbviewer.org/github/JohnnyRyan1/geospatial-data-science/blob/master/labs/lab6/lab6_demo.ipynb)             |
 | 7           | Feb 14     | [Data access](https://nbviewer.org/format/slides/github/JohnnyRyan1/geospatial-data-science/blob/master/lectures/lecture7/lecture-7.ipynb)           | [Mountains and ski resorts](https://nbviewer.org/github/JohnnyRyan1/geospatial-data-science/blob/master/labs/lab7/lab7_demo.ipynb)                          |                                |
-| 8           | Feb 21     | [Visualization](https://nbviewer.org/format/slides/github/JohnnyRyan1/geospatial-data-science/blob/master/lectures/lecture8/lecture-8.ipynb)         | Project work                      | Project check-in               |
-| 9           | Feb 28     | [Ethics and responsibility](https://nbviewer.org/format/slides/github/JohnnyRyan1/geospatial-data-science/blob/master/lectures/lecture9/lecture-9.ipynb) | [Application 2](https://nbviewer.org/github/JohnnyRyan1/geospatial-data-science/blob/master/labs/lab9/lab9_demo.ipynb)                     |                                |
+| 8           | Feb 21     | [Visualization](https://nbviewer.org/format/slides/github/JohnnyRyan1/geospatial-data-science/blob/master/lectures/lecture8/lecture-8.ipynb)         | Project work                | Project check-in               |
+| 9           | Feb 28     | Discussion                | Project work                     |                                |
 | 10          | Mar 7      | Project presentations     | Project presentations              | Submit project write-up        |
 
 ## Final project

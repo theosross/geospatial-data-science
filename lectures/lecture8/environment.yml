@@ -1,4 +1,4 @@
-name: lab9
+name: lecture8
 channels:
     - conda-forge
     - defaults
@@ -8,3 +8,6 @@ dependencies:
     - numpy         # N-d array and numerics 
     - jupyter       # Interactive notebooks
     - folium        # Python wrapper for Leaflet.js for plotting interactive maps
+    - rioxarray     # Read/write scientific datasets 
+    - geopandas     # Spatial pandas
+    - cartopy       # Produce maps
